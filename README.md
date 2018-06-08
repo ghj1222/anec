@@ -30,3 +30,5 @@ val代表最长公共子序列长度。
 ### another thing
 
 welcome to pull requests/issues
+
+关于本程序的来源，请最好不要询问ghj1222
