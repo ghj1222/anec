@@ -8,7 +8,7 @@ this program is protected by "general public lisense v3.0"
 
 ### how to use 
 备注：本人英文太渣，若有大佬可帮忙翻译一下
-编译cpp文件得到一个exe，然后把它放到src目录里，在src目录再建立一个list.txt，格式如下：
+（建议使用`g++`）编译`anec.cpp`文件得到一个`anec.exe`(windows环境下)，然后把它放到cena评测的`src`目录里，在`src`目录再建立一个`list.txt`，格式如下：
 ```
 第一行是一个题目名称（算上.cpp），例如aa.cpp
 第二行是选手个数n
@@ -24,10 +24,11 @@ juruo
 dalao
 hello_world
 ```
-然后运行anec.exe
-然后会生成一个.csv文件，  
-val代表最长公共子序列长度。
-
+然后运行`anec.exe`
+然后会生成一个`.csv`文件，  
+`val`代表最长公共子序列长度。
+### comments
+由于我渣，本程序目前只能在windows环境下配合cena操作
 ### another thing
 
 welcome to pull requests/issues
